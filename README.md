@@ -2,5 +2,4 @@
 A collection of random python scripts that I have made over the years
 
 
-Normalize.py
-A quick and dirty way to normalize parts of a mongoDB database.
+Normalize.py - A quick and dirty way to normalize parts of a mongoDB database.
